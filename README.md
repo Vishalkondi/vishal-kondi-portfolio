@@ -2,6 +2,10 @@
 
 This is the personal portfolio website of Vishal Kondi, built using React.js and Vite. The portfolio showcases skills and projects as a Full Stack and Frontend Developer. It has a responsive design that works well on both desktop and mobile devices.
 
+
+![Uploading Screenshot (65).png…]()
+
+
 ## Technologies Used
 
 - **Frontend:** React.js, Vite, Tailwind CSS (for styling)

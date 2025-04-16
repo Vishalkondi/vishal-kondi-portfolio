@@ -31,3 +31,13 @@ Follow the steps below to set up the project locally.
 
    ```bash
    git clone https://github.com/Vishalkondi/vishal-kondi-portfolio.git
+
+cd vishal-kondi-portfolio
+npm install
+npm run dev
+
+Contributing
+If you'd like to contribute to this project, feel free to open an issue or submit a pull request with your changes. Any improvements or bug fixes are welcome!
+
+License
+This project is open-source and available under the MIT License.

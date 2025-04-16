@@ -7,6 +7,7 @@ This is the personal portfolio website of Vishal Kondi, built using React.js and
 
 
 
+
 ## Technologies Used
 
 - **Frontend:** React.js, Vite, Tailwind CSS (for styling)

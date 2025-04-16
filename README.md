@@ -24,7 +24,7 @@ Follow the steps below to set up the project locally.
 
 ### Prerequisites
 
-- Make sure you have `Node.js` installed on your system. If not, download and install from [Node.js official website](https://nodejs.org/).
+- Make sure you have `Node.js`
 - You will need `npm` or `yarn` to manage dependencies.
 
 ### Steps
